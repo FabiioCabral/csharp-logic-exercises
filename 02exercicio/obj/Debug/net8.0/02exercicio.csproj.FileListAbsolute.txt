@@ -1,0 +1,14 @@
+C:\Users\Fábio Henrique\OneDrive\Desktop\Logica&algoritmos c#\02exercicio\bin\Debug\net8.0\02exercicio.exe
+C:\Users\Fábio Henrique\OneDrive\Desktop\Logica&algoritmos c#\02exercicio\bin\Debug\net8.0\02exercicio.deps.json
+C:\Users\Fábio Henrique\OneDrive\Desktop\Logica&algoritmos c#\02exercicio\bin\Debug\net8.0\02exercicio.runtimeconfig.json
+C:\Users\Fábio Henrique\OneDrive\Desktop\Logica&algoritmos c#\02exercicio\bin\Debug\net8.0\02exercicio.dll
+C:\Users\Fábio Henrique\OneDrive\Desktop\Logica&algoritmos c#\02exercicio\bin\Debug\net8.0\02exercicio.pdb
+C:\Users\Fábio Henrique\OneDrive\Desktop\Logica&algoritmos c#\02exercicio\obj\Debug\net8.0\02exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio Henrique\OneDrive\Desktop\Logica&algoritmos c#\02exercicio\obj\Debug\net8.0\02exercicio.AssemblyInfoInputs.cache
+C:\Users\Fábio Henrique\OneDrive\Desktop\Logica&algoritmos c#\02exercicio\obj\Debug\net8.0\02exercicio.AssemblyInfo.cs
+C:\Users\Fábio Henrique\OneDrive\Desktop\Logica&algoritmos c#\02exercicio\obj\Debug\net8.0\02exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Fábio Henrique\OneDrive\Desktop\Logica&algoritmos c#\02exercicio\obj\Debug\net8.0\02exercicio.dll
+C:\Users\Fábio Henrique\OneDrive\Desktop\Logica&algoritmos c#\02exercicio\obj\Debug\net8.0\refint\02exercicio.dll
+C:\Users\Fábio Henrique\OneDrive\Desktop\Logica&algoritmos c#\02exercicio\obj\Debug\net8.0\02exercicio.pdb
+C:\Users\Fábio Henrique\OneDrive\Desktop\Logica&algoritmos c#\02exercicio\obj\Debug\net8.0\02exercicio.genruntimeconfig.cache
+C:\Users\Fábio Henrique\OneDrive\Desktop\Logica&algoritmos c#\02exercicio\obj\Debug\net8.0\ref\02exercicio.dll
